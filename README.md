@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Simon. These days I work at Elevation Church as an App Developer, focusing on React Native. In my spare time I lead [@Swarm-Creative](https://github.com/Swarm-Creative)
 
 <!--
 **ZhymonNorman/ZhymonNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
