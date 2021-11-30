@@ -1,4 +1,8 @@
-### Hi there 👋, my name is Simon. These days I work at [Elevation Church](https://elevationchurch.org) as an App Developer, focusing on [Capacitor JS](https://capacitorjs.com/) and JavaScript. In my spare time I am the Director of [@Swarm-Creative](https://github.com/Swarm-Creative)
+### Hi there 👋, my name is Simon. I'm a multi-disciplined developer with a focus in game development and frontend development. I mostly work in Unreal Engine, Javascript, & [Capacitor JS](https://capacitorjs.com/). 
+
+*What I'm up to these days:*
+- App Developer @ [Elevation Church](https://elevationchurch.org) 
+- Director @ [Swarm-Creative](https://github.com/Swarm-Creative)
 
 <!--
 **ZhymonNorman/ZhymonNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
