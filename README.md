@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Simon. I'm a multi-disciplined developer with a focus in game development and frontend development. I mostly work in Unreal Engine, Javascript, & [Capacitor JS](https://capacitorjs.com/). 
+### Hi there 👋, my name is Simon. I'm a multi-disciplined developer with a focus in game development and frontend development. I mostly work in [Unreal Engine](https://unrealengine.com/), JavaScript, & [Capacitor JS](https://capacitorjs.com/). 
 
 *What I'm up to these days:*
 - App Developer @ [Elevation Church](https://elevationchurch.org) 
