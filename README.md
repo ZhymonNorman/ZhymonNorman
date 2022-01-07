@@ -2,7 +2,7 @@
 
 *What I'm up to these days:*
 - App Developer @ [Elevation Church](https://elevationchurch.org) 
-- Director @ [Swarm-Creative](https://github.com/Swarm-Creative)
+- Director @ [Swarm-Creative](https://github.com/Swarm-Creative) & [SwarmEDU](https://swarmedu.org)
 
 <!--
 **ZhymonNorman/ZhymonNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
