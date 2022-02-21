@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ZhymonNorman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZhymonNorman)](https://github.com/anuraghazra/github-readme-stats)
+![ZhymonNorman's wakatime stats](https://github-readme-stats.vercel.app/api?username=ZhymonNorman&show_icons=true&bg_color=127,C9DB03,E6E200&title_color=000&text_color=2C2C2E&icon_color=2C2C2E)
