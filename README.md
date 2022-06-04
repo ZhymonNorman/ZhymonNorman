@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![ZhymonNorman's wakatime stats](https://github-readme-stats.vercel.app/api?username=ZhymonNorman&show_icons=true&bg_color=127,C9DB03,E6E200&title_color=000&text_color=2C2C2E&icon_color=2C2C2E)
+
+[![Top Langs](https://wakatime.com/share/@ZhymonNorman/86c94202-f48a-4aa0-9f53-50fb1fe2714b.svg)](https://github.com/anuraghazra/github-readme-stats)
