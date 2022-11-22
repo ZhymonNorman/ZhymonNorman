@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ![ZhymonNorman's wakatime stats](https://github-readme-stats.vercel.app/api?username=ZhymonNorman&show_icons=true&bg_color=127,C9DB03,E6E200&title_color=000&text_color=2C2C2E&icon_color=2C2C2E)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=ZhymonNorman&layout=compact&show_icons=true&bg_color=f4f5f7,f4f5f7,f4f5f7&title_color=24250f&text_color=24250f&icon_color=24250f)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+<a rel="me" href="https://mastodon.online/@Zhymon">Mastodon</a>
+-->
