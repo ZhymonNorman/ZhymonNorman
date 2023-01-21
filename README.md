@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Simon. I'm a multi-disciplined developer with a focus in game development and frontend development. I mostly work in [Unreal Engine](https://unrealengine.com/), JavaScript, [Next.js](https://nextjs.org) & [Capacitor](https://capacitorjs.com/). 
 
 *What I'm up to these days:*
+- DevOps Engineer @ [STOIC](https://stoicstudio.com/)
 - Director @ [Swarm-Creative](https://github.com/Swarm-Creative) & [SwarmEDU](https://swarmedu.org)
 
 <!--
