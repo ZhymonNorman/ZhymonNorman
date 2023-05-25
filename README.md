@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![ZhymonNorman's wakatime stats](https://github-readme-stats.vercel.app/api?username=ZhymonNorman&show_icons=true&bg_color=127,C9DB03,E6E200&title_color=000&text_color=2C2C2E&icon_color=2C2C2E)
 
-![Top Langs](https://wakatime.com/share/@ZhymonNorman/1190eeb6-1e4e-42fd-a4c3-fbd588d96abc.png)(https://wakatime.com/@ZhymonNorman)
+![Top Langs](https://wakatime.com/share/@ZhymonNorman/1190eeb6-1e4e-42fd-a4c3-fbd588d96abc.png)
 
 <!--
 <a rel="me" href="https://mastodon.online/@Zhymon">Mastodon</a>
