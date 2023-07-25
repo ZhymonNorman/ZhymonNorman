@@ -2,7 +2,7 @@
 
 *What I'm up to these days:*
 - DevOps Engineer @ [STOIC](https://stoicstudio.com/)
-- Director @ [Swarm-Creative](https://github.com/Swarm-Creative) & [SwarmEDU](https://swarmedu.org)
+- Director @ [Agents of SWARM](https://agentsofswarm.com)
 
 <!--
 **ZhymonNorman/ZhymonNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
