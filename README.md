@@ -3,6 +3,7 @@
 *What I'm up to these days:*
 - DevOps Engineer @ [STOIC](https://stoicstudio.com/)
 - Director @ [Agents of SWARM](https://agentsofswarm.com)
+- Working on a game dev project, [Project24](https://swrm.link/?i=0o1lJ)
 
 <!--
 **ZhymonNorman/ZhymonNorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
