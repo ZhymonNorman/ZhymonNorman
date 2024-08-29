@@ -1,8 +1,7 @@
 **Hi there** 👋, my name is Simon. I'm a multi-disciplined developer with a focus in game development, devops, and web development. I mostly work in [Unreal Engine](https://unrealengine.com/), JavaScript, [Next.js](https://nextjs.org) & [Rust](https://www.rust-lang.org/). 
 
 *What I'm up to these days:*
-- Director @ [Agents of SWARM](https://agentsofswarm.com)
-- DevOps Engineer @ [STOIC](https://stoicstudio.com/)
+- DevOps Engineer by day, Indie Dev @ [Agents of SWARM](https://agentsofswarm.com) by night
 - Working on a game dev project, [Project24](https://swrm.link/?i=0o1lJ)
 
 <!--
