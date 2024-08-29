@@ -2,6 +2,7 @@
 
 *What I'm up to these days:*
 - Director @ [Agents of SWARM](https://agentsofswarm.com)
+- DevOps Engineer @ [STOIC](https://stoicstudio.com/)
 - Working on a game dev project, [Project24](https://swrm.link/?i=0o1lJ)
 
 <!--
